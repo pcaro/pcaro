@@ -9,11 +9,11 @@ Tech enthusiast since I was a kid. Senior Python engineer with 15+ years buildin
 ## 📝 Latest from my blog
 
 <!-- BLOG-POST-LIST:START -->
-- [Crit: El bucle de revisión para Agentes](https://pablocaro.es/crit-review-loop-agents)
 - [Crit: The Review Loop for Agents](https://pablocaro.es/en/crit-review-loop-agents)
-- [Joyas ocultas en pi-powerline-footer](https://pablocaro.es/powerline-footer-hidden-gems)
+- [Crit: El bucle de revisión para Agentes](https://pablocaro.es/crit-review-loop-agents)
 - [Hidden gems in pi-powerline-footer](https://pablocaro.es/en/powerline-footer-hidden-gems)
-- [Agent Browser: Navegación para Agentes](https://pablocaro.es/agent-browser-navegacion-agentes)
+- [Joyas ocultas en pi-powerline-footer](https://pablocaro.es/powerline-footer-hidden-gems)
+- [Agent Browser: Browser Navigation for AI Agents](https://pablocaro.es/en/agent-browser-navigation-agents)
 <!-- BLOG-POST-LIST:END -->
 
 ---
