@@ -1,0 +1,36 @@
+name: Update GitHub Stats
+on:
+  schedule:
+    # Run every 6 hours
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Update GitHub Stats
+        uses: anuraghazra/github-readme-stats@master
+        with:
+          all: true
+          commit_message: "📊 Update GitHub stats"
+          # Theme: https://github.com/anuraghazra/github-readme-stats/blob/main/themes/README.md
+          theme: transparent
+          # Hide some sections you don't want
+          hide_rank: true
+          # Languages settings
+          top_languages: true
+          languages_limit: 6
+          langs_cache: true
+
+      - name: Push changes
+        uses: crazy-max/ghaction-github-push@v1
+        with:
+          branch: main
+          force: true

@@ -1,3 +1,8 @@
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pcaro&show_icons=true&theme=transparent&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pcaro&layout=compact&theme=transparent&hide_border=true" />
+</p>
+
 # Hi, I'm Pablo 👋
 
 Tech enthusiast since I was a kid. Senior Python engineer with 15+ years building backend systems, but also comfortable with Node.js and Rust.
@@ -9,11 +14,6 @@ Tech enthusiast since I was a kid. Senior Python engineer with 15+ years buildin
 ## 📝 Latest from my blog
 
 <!-- BLOG-POST-LIST:START -->
-- [Crit: El bucle de revisión para Agentes](https://pablocaro.es/crit-review-loop-agents)
-- [Crit: The Review Loop for Agents](https://pablocaro.es/en/crit-review-loop-agents)
-- [Joyas ocultas en pi-powerline-footer](https://pablocaro.es/powerline-footer-hidden-gems)
-- [Hidden gems in pi-powerline-footer](https://pablocaro.es/en/powerline-footer-hidden-gems)
-- [Agent Browser: Navegación para Agentes](https://pablocaro.es/agent-browser-navegacion-agentes)
 <!-- BLOG-POST-LIST:END -->
 
 ---
