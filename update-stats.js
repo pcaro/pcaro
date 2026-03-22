@@ -27,12 +27,6 @@ async function updateStats() {
 
   if (readme.includes(statsStart)) {
     readme = readme.replace(new RegExp(`${statsStart}[\\s\\S]*?${statsEnd}`), statsSection);
-  } else {
-    // Insert after the header section
-    const headerEnd = readme.indexOf('\n---\n\n## 📝 Latest from my blog');
-    if (headerEnd !== -1) {
-      readme = readme.slice(0, headerEnd) + '\n' + statsSection + readme.slice(headerEnd);
-    }
   }
 
   fs.writeFileSync('README.md', readme);
