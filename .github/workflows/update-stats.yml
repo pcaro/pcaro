@@ -22,7 +22,7 @@ jobs:
 
       - name: Install and run
         run: |
-          npm install github-readme-stats
+          npm install github:anuraghazra/github-readme-stats
           node update-stats.js
 
       - name: Push changes
