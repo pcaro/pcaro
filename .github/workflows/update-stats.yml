@@ -15,13 +15,20 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Update GitHub Stats
-        uses: anuraghazra/github-readme-stats@master
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
         with:
-          all: true
-          commit_message: "📊 Update GitHub stats"
-          theme: transparent
-          hide_rank: true
-          top_languages: true
-          languages_limit: 6
-          langs_cache: true
+          node-version: '20'
+
+      - name: Install and run
+        run: |
+          npm install github-readme-stats
+          node update-stats.js
+
+      - name: Push changes
+        run: |
+          git config user.name "GitHub Actions Bot"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git diff --staged --quiet || git commit -m "📊 Update GitHub stats"
+          git push
