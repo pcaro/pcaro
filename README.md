@@ -13,15 +13,6 @@ Tech enthusiast since I was a kid. Senior Python engineer with 15+ years buildin
 
 ---
 
-## 🛠 Tech Stack
-
-**Backend:** Python • Django • FastAPI • Node.js • Rust  
-**Databases:** PostgreSQL • PostGIS • Redis  
-**Cloud:** GCP • AWS • Azure  
-**DevOps:** Docker • Kubernetes • GitHub Actions  
-
----
-
 ## 📫 Let's connect
 
 - 🌐 [pablocaro.es](https://pablocaro.es)
