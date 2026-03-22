@@ -22,3 +22,4 @@ jobs:
           max_post_count: 5
           commit_message: "📝 Update latest blog posts"
           gh_token: ${{ secrets.GITHUB_TOKEN }}
+          item_exec: "item.url.includes('/en/')"
