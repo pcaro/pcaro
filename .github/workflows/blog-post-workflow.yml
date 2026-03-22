@@ -25,7 +25,7 @@ jobs:
 
       - name: Fix relative URLs
         run: |
-          sed -i 's|href="/en/|href="https://pablocaro.es/en/|g' README.md
+          sed -i 's|](/en/|](https://pablocaro.es/en/|g' README.md
 
       - name: Commit and push
         run: |
