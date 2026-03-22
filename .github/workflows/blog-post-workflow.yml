@@ -18,7 +18,7 @@ jobs:
       - name: Fetch latest blog posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://pablocaro.es/feeds/all.atom.xml"
+          feed_list: "https://pablocaro.es/en/feeds/all.atom.xml"
           max_post_count: 5
           commit_message: "📝 Update latest blog posts"
           gh_token: ${{ secrets.GITHUB_TOKEN }}
