@@ -9,11 +9,11 @@ Tech enthusiast since I was a kid. Senior Python engineer with 15+ years buildin
 ## 📝 Latest from my blog
 
 <!-- BLOG-POST-LIST:START -->
-- [rbw-env: Export environment variables from Bitwarden](/en/rbw-env)
-- [Crit: The Review Loop for Agents](/en/crit-review-loop-agents)
-- [Hidden gems in pi-powerline-footer](/en/powerline-footer-hidden-gems)
-- [Agent Browser: Browser Navigation for AI Agents](/en/agent-browser-navigation-agents)
-- [Tailscale Aperture: AI Gateway Without Distributing API Keys](/en/tailscale-aperture-gateway-ia-seguro)
+- [rbw-env: Export environment variables from Bitwarden](https://pablocaro.es/en/rbw-env)
+- [Crit: The Review Loop for Agents](https://pablocaro.es/en/crit-review-loop-agents)
+- [Hidden gems in pi-powerline-footer](https://pablocaro.es/en/powerline-footer-hidden-gems)
+- [Agent Browser: Browser Navigation for AI Agents](https://pablocaro.es/en/agent-browser-navigation-agents)
+- [Tailscale Aperture: AI Gateway Without Distributing API Keys](https://pablocaro.es/en/tailscale-aperture-gateway-ia-seguro)
 <!-- BLOG-POST-LIST:END -->
 
 ---
