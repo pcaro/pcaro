@@ -9,11 +9,11 @@ Tech enthusiast since I was a kid. Senior Python engineer with 15+ years buildin
 ## 📝 Latest from my blog
 
 <!-- BLOG-POST-LIST:START -->
-- [Velvet OS: modern kernels for old ARM hardware](https://pablocaro.es/en/velvet-os)
-- [Video Creation with Gemini: Seville Characters](https://pablocaro.es/en/video-gemini-sevilla)
-- [Google Stitch: UI generation and prototyping with AI](https://pablocaro.es/en/google-stitch)
-- [rbw sync: missing field `access_token`](https://pablocaro.es/en/rbw-sync-access-token)
-- [rbw-env: Export environment variables from Bitwarden](https://pablocaro.es/en/rbw-env)
+- [Installing GitHub Skills](/en/installing-github-skills)
+- [Velvet OS: modern kernels for old ARM hardware](/en/velvet-os)
+- [Video Creation with Gemini: Seville Characters](/en/video-gemini-sevilla)
+- [Google Stitch: UI generation and prototyping with AI](/en/google-stitch)
+- [rbw sync: missing field `access_token`](/en/rbw-sync-access-token)
 <!-- BLOG-POST-LIST:END -->
 
 ---
