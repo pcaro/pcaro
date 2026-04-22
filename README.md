@@ -9,11 +9,11 @@ Tech enthusiast since I was a kid. Senior Python engineer with 15+ years buildin
 ## 📝 Latest from my blog
 
 <!-- BLOG-POST-LIST:START -->
-- [Installing GitHub Skills](https://pablocaro.es/en/installing-github-skills)
-- [Velvet OS: modern kernels for old ARM hardware](https://pablocaro.es/en/velvet-os)
-- [Video Creation with Gemini: Seville Characters](https://pablocaro.es/en/video-gemini-sevilla)
-- [Google Stitch: UI generation and prototyping with AI](https://pablocaro.es/en/google-stitch)
-- [rbw sync: missing field `access_token`](https://pablocaro.es/en/rbw-sync-access-token)
+- [Rust eBooks Nightly — Rust books in EPUB, AZW3, MOBI, and PDF](/en/rust-ebooks-nightly)
+- [Disable git autocrlf](/en/disable-git-autocrlf)
+- [Installing GitHub Skills](/en/installing-github-skills)
+- [Velvet OS: modern kernels for old ARM hardware](/en/velvet-os)
+- [Video Creation with Gemini: Seville Characters](/en/video-gemini-sevilla)
 <!-- BLOG-POST-LIST:END -->
 
 ---
