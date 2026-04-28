@@ -9,11 +9,11 @@ Tech enthusiast since I was a kid. Senior Python engineer with 15+ years buildin
 ## 📝 Latest from my blog
 
 <!-- BLOG-POST-LIST:START -->
-- [neofetch](/en/neofetch)
-- [Rufus, the best way to install a clean Windows](/en/rufus-instalar-windows-limpio)
-- [Trying Aurora: my first look at the future of the Linux desktop](/en/probando-aurora-mi-primer-vistazo-al-futuro-del-escritorio-linux)
-- [Expand Aurora VM disk on Unraid and resize partitions](/en/ampliar-disco-vm-aurora-unraid)
-- [Rust eBooks Nightly — Rust books in EPUB, AZW3, MOBI, and PDF](/en/rust-ebooks-nightly)
+- [neofetch](https://pablocaro.es/en/neofetch)
+- [Rufus, the best way to install a clean Windows](https://pablocaro.es/en/rufus-instalar-windows-limpio)
+- [Trying Aurora: my first look at the future of the Linux desktop](https://pablocaro.es/en/probando-aurora-mi-primer-vistazo-al-futuro-del-escritorio-linux)
+- [Expand Aurora VM disk on Unraid and resize partitions](https://pablocaro.es/en/ampliar-disco-vm-aurora-unraid)
+- [Rust eBooks Nightly — Rust books in EPUB, AZW3, MOBI, and PDF](https://pablocaro.es/en/rust-ebooks-nightly)
 <!-- BLOG-POST-LIST:END -->
 
 ---
