@@ -9,11 +9,11 @@ Tech enthusiast since I was a kid. Senior Python engineer with 15+ years buildin
 ## 📝 Latest from my blog
 
 <!-- BLOG-POST-LIST:START -->
-- [marksman: Markdown LSP](/en/marksman-lsp-markdown)
-- [The Price Hike of SBCs &lpar;Single Board Computers&rpar;](/en/muerte-cacharritos)
-- [neofetch](/en/neofetch)
-- [Rufus, the best way to install a clean Windows](/en/rufus-instalar-windows-limpio)
-- [Trying Aurora: my first look at the future of the Linux desktop](/en/probando-aurora-mi-primer-vistazo-al-futuro-del-escritorio-linux)
+- [marksman: Markdown LSP](https://pablocaro.es/en/marksman-lsp-markdown)
+- [The Price Hike of SBCs &lpar;Single Board Computers&rpar;](https://pablocaro.es/en/muerte-cacharritos)
+- [neofetch](https://pablocaro.es/en/neofetch)
+- [Rufus, the best way to install a clean Windows](https://pablocaro.es/en/rufus-instalar-windows-limpio)
+- [Trying Aurora: my first look at the future of the Linux desktop](https://pablocaro.es/en/probando-aurora-mi-primer-vistazo-al-futuro-del-escritorio-linux)
 <!-- BLOG-POST-LIST:END -->
 
 ---
