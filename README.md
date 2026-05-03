@@ -9,11 +9,11 @@ Tech enthusiast since I was a kid. Senior Python engineer with 15+ years buildin
 ## 📝 Latest from my blog
 
 <!-- BLOG-POST-LIST:START -->
-- [DNS blocking of AliExpress links with NextDNS](/en/bloqueo-dns-aliexpress-nextdns)
-- [Double-sided scanning with the Brother DCP-L3560CDW](/en/escaneo-doble-cara-brother-dcp-l3560cdw)
-- [marksman: Markdown LSP](/en/marksman-lsp-markdown)
-- [The Price Hike of SBCs &lpar;Single Board Computers&rpar;](/en/muerte-cacharritos)
-- [neofetch](/en/neofetch)
+- [DNS blocking of AliExpress links with NextDNS](https://pablocaro.es/en/bloqueo-dns-aliexpress-nextdns)
+- [Double-sided scanning with the Brother DCP-L3560CDW](https://pablocaro.es/en/escaneo-doble-cara-brother-dcp-l3560cdw)
+- [marksman: Markdown LSP](https://pablocaro.es/en/marksman-lsp-markdown)
+- [The Price Hike of SBCs &lpar;Single Board Computers&rpar;](https://pablocaro.es/en/muerte-cacharritos)
+- [neofetch](https://pablocaro.es/en/neofetch)
 <!-- BLOG-POST-LIST:END -->
 
 ---
