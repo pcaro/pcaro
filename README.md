@@ -9,11 +9,11 @@ Tech enthusiast since I was a kid. Senior Python engineer with 15+ years buildin
 ## 📝 Latest from my blog
 
 <!-- BLOG-POST-LIST:START -->
-- [Winhance: clean and optimize Windows without reinstalling](/en/winhance-windows-debloater)
-- [Pi subagent extensions: TintinWeb, NicoBailon and Taskplane](/en/extensiones-subagentes-pi)
-- [DNS blocking of AliExpress links with NextDNS](/en/bloqueo-dns-aliexpress-nextdns)
-- [Double-sided scanning with the Brother DCP-L3560CDW](/en/escaneo-doble-cara-brother-dcp-l3560cdw)
-- [marksman: Markdown LSP](/en/marksman-lsp-markdown)
+- [Winhance: clean and optimize Windows without reinstalling](https://pablocaro.es/en/winhance-windows-debloater)
+- [Pi subagent extensions: TintinWeb, NicoBailon and Taskplane](https://pablocaro.es/en/extensiones-subagentes-pi)
+- [DNS blocking of AliExpress links with NextDNS](https://pablocaro.es/en/bloqueo-dns-aliexpress-nextdns)
+- [Double-sided scanning with the Brother DCP-L3560CDW](https://pablocaro.es/en/escaneo-doble-cara-brother-dcp-l3560cdw)
+- [marksman: Markdown LSP](https://pablocaro.es/en/marksman-lsp-markdown)
 <!-- BLOG-POST-LIST:END -->
 
 ---
