@@ -9,11 +9,11 @@ Tech enthusiast since I was a kid. Senior Python engineer with 15+ years buildin
 ## 📝 Latest from my blog
 
 <!-- BLOG-POST-LIST:START -->
-- [Matt Pocock — Simple Skills That Work](/en/matt-pocock-skills)
-- [Superpowers — Jesse Vincent Imposes Methodology on Coding Agents](/en/superpowers-obra-jesse-vincent)
-- [Agent Skills by Addy Osmani — Enforcing Senior Engineering Discipline on Agents](/en/agent-skills-addy-osmani)
-- [Compound Engineering — Every&#39;s Vision for Agent-Driven Engineering](/en/compound-engineering-every)
-- [Programming with Agents](/en/programming-with-agents)
+- [Matt Pocock — Simple Skills That Work](https://pablocaro.es/en/matt-pocock-skills)
+- [Superpowers — Jesse Vincent Imposes Methodology on Coding Agents](https://pablocaro.es/en/superpowers-obra-jesse-vincent)
+- [Agent Skills by Addy Osmani — Enforcing Senior Engineering Discipline on Agents](https://pablocaro.es/en/agent-skills-addy-osmani)
+- [Compound Engineering — Every&#39;s Vision for Agent-Driven Engineering](https://pablocaro.es/en/compound-engineering-every)
+- [Programming with Agents](https://pablocaro.es/en/programming-with-agents)
 <!-- BLOG-POST-LIST:END -->
 
 ---
