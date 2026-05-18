@@ -9,11 +9,11 @@ Tech enthusiast since I was a kid. Senior Python engineer with 15+ years buildin
 ## 📝 Latest from my blog
 
 <!-- BLOG-POST-LIST:START -->
-- [Markdown Preview in Kate Editor with markdownpart](https://pablocaro.es/en/markdownpart-kate-preview)
-- [Configuring udev permissions for Vial on Linux](https://pablocaro.es/en/vial-linux-udev)
-- [GitHub Spec Kit — Specifications as Source of Truth](https://pablocaro.es/en/spec-kit-github)
-- [Matt Pocock — Simple Skills That Work](https://pablocaro.es/en/matt-pocock-skills)
-- [Superpowers — Jesse Vincent Imposes Methodology on Coding Agents](https://pablocaro.es/en/superpowers-obra-jesse-vincent)
+- [Markdown Preview in Kate Editor with markdownpart](/en/markdownpart-kate-preview)
+- [Configuring udev permissions for Vial on Linux](/en/vial-linux-udev)
+- [GitHub Spec Kit — Specifications as Source of Truth](/en/spec-kit-github)
+- [Matt Pocock — Simple Skills That Work](/en/matt-pocock-skills)
+- [Superpowers — Jesse Vincent Imposes Methodology on Coding Agents](/en/superpowers-obra-jesse-vincent)
 <!-- BLOG-POST-LIST:END -->
 
 ---
