@@ -9,11 +9,11 @@ Tech enthusiast since I was a kid. Senior Python engineer with 15+ years buildin
 ## 📝 Latest from my blog
 
 <!-- BLOG-POST-LIST:START -->
-- [Programming as Theory Building: Peter Naur&#39;s Essay](https://pablocaro.es/en/programming-as-theory-building-naur)
-- [Markdown Preview in Kate Editor with markdownpart](https://pablocaro.es/en/markdownpart-kate-preview)
-- [Configuring udev permissions for Vial on Linux](https://pablocaro.es/en/vial-linux-udev)
-- [GitHub Spec Kit — Specifications as Source of Truth](https://pablocaro.es/en/spec-kit-github)
-- [Matt Pocock — Simple Skills That Work](https://pablocaro.es/en/matt-pocock-skills)
+- [The Pi Extensions I Use Daily](/en/extensiones-pi-que-uso)
+- [Pi from Beginner to Advanced — The Complete Guide](/en/pi-de-principiante-a-avanzado)
+- [What is Pi? — The Minimal Coding Agent That Went Viral](/en/que-es-pi-coding-agent)
+- [Programming as Theory Building: Peter Naur&#39;s Essay](/en/programming-as-theory-building-naur)
+- [Markdown Preview in Kate Editor with markdownpart](/en/markdownpart-kate-preview)
 <!-- BLOG-POST-LIST:END -->
 
 ---
