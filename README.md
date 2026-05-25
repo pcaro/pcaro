@@ -9,11 +9,11 @@ Tech enthusiast since I was a kid. Senior Python engineer with 15+ years buildin
 ## 📝 Latest from my blog
 
 <!-- BLOG-POST-LIST:START -->
-- [The Pi Extensions I Use Daily](https://pablocaro.es/en/extensiones-pi-que-uso)
-- [Pi from Beginner to Advanced — The Complete Guide](https://pablocaro.es/en/pi-de-principiante-a-avanzado)
-- [What is Pi? — The Minimal Coding Agent That Went Viral](https://pablocaro.es/en/que-es-pi-coding-agent)
-- [Programming as Theory Building: Peter Naur&#39;s Essay](https://pablocaro.es/en/programming-as-theory-building-naur)
-- [Markdown Preview in Kate Editor with markdownpart](https://pablocaro.es/en/markdownpart-kate-preview)
+- [The Pi Extensions I Use Daily](/en/extensiones-pi-que-uso)
+- [Pi from Beginner to Advanced — The Complete Guide](/en/pi-de-principiante-a-avanzado)
+- [What is Pi? — The Minimal Coding Agent That Went Viral](/en/que-es-pi-coding-agent)
+- [Programming as Theory Building: Peter Naur&#39;s Essay](/en/programming-as-theory-building-naur)
+- [Markdown Preview in Kate Editor with markdownpart](/en/markdownpart-kate-preview)
 <!-- BLOG-POST-LIST:END -->
 
 ---
