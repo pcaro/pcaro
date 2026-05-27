@@ -26,7 +26,7 @@ Tech enthusiast since I was a kid. Senior Python engineer with 15+ years buildin
 
 ---
 
-<!-- STATS:START -->
+<!-- STATS:START
 <p align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pcaro&show_icons=true&theme=transparent&hide_border=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pcaro&layout=compact&theme=transparent&hide_border=true" />
