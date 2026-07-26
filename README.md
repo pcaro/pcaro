@@ -9,11 +9,11 @@ Tech enthusiast since I was a kid. Senior Python engineer with 15+ years buildin
 ## 📝 Latest from my blog
 
 <!-- BLOG-POST-LIST:START -->
-- [Unsloth docs: the clearest documentation on hardware requirements for local LLMs](/en/unsloth-docs)
-- [AgentsView: local analytics for your coding agents](/en/agentsview-analytics-agentes)
-- [Detecting secrets in git with gitleaks](/en/gitleaks-deteccion-secrets-git)
-- [Cleaning up npx&#39;s hidden cache](/en/limpiar-cache-npx)
-- [The Pi Extensions I Use Daily](/en/extensiones-pi-que-uso)
+- [Unsloth docs: the clearest documentation on hardware requirements for local LLMs](https://pablocaro.es/en/unsloth-docs)
+- [AgentsView: local analytics for your coding agents](https://pablocaro.es/en/agentsview-analytics-agentes)
+- [Detecting secrets in git with gitleaks](https://pablocaro.es/en/gitleaks-deteccion-secrets-git)
+- [Cleaning up npx&#39;s hidden cache](https://pablocaro.es/en/limpiar-cache-npx)
+- [The Pi Extensions I Use Daily](https://pablocaro.es/en/extensiones-pi-que-uso)
 <!-- BLOG-POST-LIST:END -->
 
 ---
