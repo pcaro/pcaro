@@ -9,11 +9,11 @@ Tech enthusiast since I was a kid. Senior Python engineer with 15+ years buildin
 ## 📝 Latest from my blog
 
 <!-- BLOG-POST-LIST:START -->
-- [ku: navigate Kubernetes from the terminal like a pro](https://pablocaro.es/en/ku-kubernetes-tui)
-- [Pluggy — A plugin framework to use in your projects](https://pablocaro.es/en/pluggy-plugins-python)
-- [Unsloth docs: the clearest documentation on hardware requirements for local LLMs](https://pablocaro.es/en/unsloth-docs)
-- [AgentsView: local analytics for your coding agents](https://pablocaro.es/en/agentsview-analytics-agentes)
-- [Detecting secrets in git with gitleaks](https://pablocaro.es/en/gitleaks-deteccion-secrets-git)
+- [ku: navigate Kubernetes from the terminal like a pro](/en/ku-kubernetes-tui)
+- [Pluggy — A plugin framework to use in your projects](/en/pluggy-plugins-python)
+- [Unsloth docs: the clearest documentation on hardware requirements for local LLMs](/en/unsloth-docs)
+- [AgentsView: local analytics for your coding agents](/en/agentsview-analytics-agentes)
+- [Detecting secrets in git with gitleaks](/en/gitleaks-deteccion-secrets-git)
 <!-- BLOG-POST-LIST:END -->
 
 ---
