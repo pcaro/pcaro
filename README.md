@@ -9,11 +9,11 @@ Tech enthusiast since I was a kid. Senior Python engineer with 15+ years buildin
 ## 📝 Latest from my blog
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Optimization](/en/optimizacion-con-ia)
-- [HarnessTax: The Harness Matters Less Than You Think](/en/harnesstax-cuanto-importa-el-harness)
-- [wrapture — monkey patching and observability in a single mechanism](/en/wrapture)
-- [qemu-wasm: full virtual machines inside your browser](/en/qemu-wasm-maquinas-virtuales-en-el-navegador)
-- [ku: navigate Kubernetes from the terminal like a pro](/en/ku-kubernetes-tui)
+- [AI Optimization](https://pablocaro.es/en/optimizacion-con-ia)
+- [HarnessTax: The Harness Matters Less Than You Think](https://pablocaro.es/en/harnesstax-cuanto-importa-el-harness)
+- [wrapture — monkey patching and observability in a single mechanism](https://pablocaro.es/en/wrapture)
+- [qemu-wasm: full virtual machines inside your browser](https://pablocaro.es/en/qemu-wasm-maquinas-virtuales-en-el-navegador)
+- [ku: navigate Kubernetes from the terminal like a pro](https://pablocaro.es/en/ku-kubernetes-tui)
 <!-- BLOG-POST-LIST:END -->
 
 ---
