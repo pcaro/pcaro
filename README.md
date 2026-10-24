@@ -9,11 +9,11 @@ Tech enthusiast since I was a kid. Senior Python engineer with 15+ years buildin
 ## 📝 Latest from my blog
 
 <!-- BLOG-POST-LIST:START -->
-- [aa-opencode: OpenCode models with benchmarks and price in one table](/en/aa-opencode)
-- [hnrss: custom RSS feeds for Hacker News](/en/hnrss-freshrss)
-- [AI Optimization](/en/optimizacion-con-ia)
-- [HarnessTax: The Harness Matters Less Than You Think](/en/harnesstax-cuanto-importa-el-harness)
-- [wrapture — monkey patching and observability in a single mechanism](/en/wrapture)
+- [aa-opencode: OpenCode models with benchmarks and price in one table](https://pablocaro.es/en/aa-opencode)
+- [hnrss: custom RSS feeds for Hacker News](https://pablocaro.es/en/hnrss-freshrss)
+- [AI Optimization](https://pablocaro.es/en/optimizacion-con-ia)
+- [HarnessTax: The Harness Matters Less Than You Think](https://pablocaro.es/en/harnesstax-cuanto-importa-el-harness)
+- [wrapture — monkey patching and observability in a single mechanism](https://pablocaro.es/en/wrapture)
 <!-- BLOG-POST-LIST:END -->
 
 ---
