@@ -9,11 +9,11 @@ Tech enthusiast since I was a kid. Senior Python engineer with 15+ years buildin
 ## 📝 Latest from my blog
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenCode on Your Phone: Remote Sessions with Tailscale and the Web App as a PWA](/en/opencode-sesiones-remotas-tailscale-pwa)
-- [From OpenCode in the terminal to OpenCode Desktop &lpar;on Linux&rpar;](/en/opencode-desktop-linux)
-- [pi-claude-bridge: your Claude Pro, Max or Team subscription inside pi](/en/pi-claude-bridge)
-- [pi-provider-opencode-console: live OpenCode Go models without waiting for pi releases](/en/pi-provider-opencode-console)
-- [aa-opencode: OpenCode models with benchmarks and price in one table](/en/aa-opencode)
+- [OpenCode on Your Phone: Remote Sessions with Tailscale and the Web App as a PWA](https://pablocaro.es/en/opencode-sesiones-remotas-tailscale-pwa)
+- [From OpenCode in the terminal to OpenCode Desktop &lpar;on Linux&rpar;](https://pablocaro.es/en/opencode-desktop-linux)
+- [pi-claude-bridge: your Claude Pro, Max or Team subscription inside pi](https://pablocaro.es/en/pi-claude-bridge)
+- [pi-provider-opencode-console: live OpenCode Go models without waiting for pi releases](https://pablocaro.es/en/pi-provider-opencode-console)
+- [aa-opencode: OpenCode models with benchmarks and price in one table](https://pablocaro.es/en/aa-opencode)
 <!-- BLOG-POST-LIST:END -->
 
 ---
