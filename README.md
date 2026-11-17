@@ -9,11 +9,11 @@ Tech enthusiast since I was a kid. Senior Python engineer with 15+ years buildin
 ## 📝 Latest from my blog
 
 <!-- BLOG-POST-LIST:START -->
-- [pi-guardrails-explain, or having the dangerous command explained before you approve it](https://pablocaro.es/en/pi-guardrails-explain)
-- [More on managing context and trees in pi](https://pablocaro.es/en/mas-contexto-y-arbol-en-pi)
-- [Session trees in pi — /tree, /fork and /clone](https://pablocaro.es/en/arboles-de-sesion-en-pi)
-- [degit: copy a repo without the history](https://pablocaro.es/en/degit)
-- [Spanish DTT in the NAS: a Docker image for tdt-local](https://pablocaro.es/en/tdt-local-docker)
+- [pi-guardrails-explain, or having the dangerous command explained before you approve it](/en/pi-guardrails-explain)
+- [More on managing context and trees in pi](/en/mas-contexto-y-arbol-en-pi)
+- [Session trees in pi — /tree, /fork and /clone](/en/arboles-de-sesion-en-pi)
+- [degit: copy a repo without the history](/en/degit)
+- [Spanish DTT in the NAS: a Docker image for tdt-local](/en/tdt-local-docker)
 <!-- BLOG-POST-LIST:END -->
 
 ---
