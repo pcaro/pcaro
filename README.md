@@ -9,11 +9,11 @@ Tech enthusiast since I was a kid. Senior Python engineer with 15+ years buildin
 ## 📝 Latest from my blog
 
 <!-- BLOG-POST-LIST:START -->
-- [todo-fp-map, or Spain&#39;s vocational training cycles on a map with SQLite in the browser](https://pablocaro.es/en/todo-fp-map)
-- [dffy: a diff viewer for the terminal](https://pablocaro.es/en/dffy-visor-diffs-terminal)
-- [pi-guardrails-explain, or having the dangerous command explained before you approve it](https://pablocaro.es/en/pi-guardrails-explain)
-- [More on managing context and trees in pi](https://pablocaro.es/en/mas-contexto-y-arbol-en-pi)
-- [Session trees in pi — /tree, /fork and /clone](https://pablocaro.es/en/arboles-de-sesion-en-pi)
+- [usb-rea: generating a Linux driver for a USB gadget that only ships a Windows app](/en/usb-rea-driver-linux)
+- [todo-fp-map, or Spain&#39;s vocational training cycles on a map with SQLite in the browser](/en/todo-fp-map)
+- [dffy: a diff viewer for the terminal](/en/dffy-visor-diffs-terminal)
+- [pi-guardrails-explain, or having the dangerous command explained before you approve it](/en/pi-guardrails-explain)
+- [More on managing context and trees in pi](/en/mas-contexto-y-arbol-en-pi)
 <!-- BLOG-POST-LIST:END -->
 
 ---
